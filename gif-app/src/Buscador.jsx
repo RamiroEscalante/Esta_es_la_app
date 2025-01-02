@@ -5,3 +5,4 @@ export const Buscador = ({onSubmit, valorInput,onChange}) => {
       </form>
     )
 }
+//sii
